@@ -1,8 +1,17 @@
-👋 Hi, I’m ✨@ilyimyan✨
+<head>
+  <style>
+    p {
+    text-alignment:center;
+    }
+  </style>
+</head>
+<body>
+  <p>👋 Hi, I’m ✨@ilyimyan✨</p>
 <br>
-<i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i>
+  <p><i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i></p>
 <br>
 -Socrates
+</body>
 
 <!---
 ilyimyan/ilyimyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
