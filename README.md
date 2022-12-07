@@ -1,15 +1,5 @@
-<head>
-  <style>
-    p {
-    text-alignment:center;
-    }
-  </style>
-</head>
 <body>
-  <p>👋 Hi, I’m ✨@ilyimyan✨</p>
-<br>
-  <p><i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i></p>
-<br>
+  <p>👋 Hi, I’m ✨@ilyimyan✨</p><br><p><i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i></p><br>
 -Socrates
 </body>
 
