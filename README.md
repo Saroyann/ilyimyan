@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ilyimyan
-- 👀 I’m interested in Web Development and IT thing
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me : gmail: ilyimyan@gmail.com
+- 👋 Hi, I’m ✨@ilyimyan✨
+- <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i>
+- -Socrates
 
 <!---
 ilyimyan/ilyimyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
