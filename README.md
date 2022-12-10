@@ -2,7 +2,7 @@
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/animegirl.gif" >
 <h1 align="center">Hi 👋, I’m ✨@ilyimyan✨</h1><br>
 <p align="center">
- <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><br>
+<img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif"> <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><br><img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif">
 -Socrates<br>
  <h3 align="center">catch me on :</h3>
 
