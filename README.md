@@ -6,4 +6,4 @@ Hi 👋, I’m ✨@ilyimyan✨<br>
 <br>
  <p>catch me on :</p>
 
-[![facebook](/img/facebook.png 'facebook')](https://web.facebook.com/profile.php?id=100028377257427)
+[![facebook](/img/facebook.png 'facebook')](https://web.facebook.com/profile.php?id=100028377257427) [![instagram](/img/instagram.png 'instagram')](https://www.instagram.com/saroyan_yan/)
