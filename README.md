@@ -1,5 +1,5 @@
 ![plot](./img/jumbotron.jpg)
-<img src="">
+<img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/menhera-chan-chibi.gif" width="50">
 <h1 align="center">Hi 👋, I’m ✨@ilyimyan✨</h1><br>
 <p align="center">
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif" width="30"> <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif" width="30"><br>
