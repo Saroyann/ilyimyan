@@ -1,6 +1,7 @@
 ![plot](./img/jumbotron.jpg)
-<p align="center">
+
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/meow_code.gif" width="50"><h1 align="center">Hi 👋, I’m ✨@ilyimyan✨</h1><br>
+<p align="center">
  <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><br>
 -Socrates<br>
  catch me on :
