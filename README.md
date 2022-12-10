@@ -1,6 +1,6 @@
 ![plot](./img/jumbotron.jpg)
 <p align="center">
-<img src="https://slackmojis.com/emojis/10521-meow_code" width="30" >Hi 👋, I’m ✨@ilyimyan✨<br>
+[!](./gif/meow_code.gif)Hi 👋, I’m ✨@ilyimyan✨<br>
  <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><br>
 -Socrates<br>
  catch me on :
