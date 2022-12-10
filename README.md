@@ -5,4 +5,5 @@ Hi 👋, I’m ✨@ilyimyan✨<br>
 -Socrates
 <br>
  <p>catch me on :</p>
- [![name](./img/facebook.png)](https://web.facebook.com/profile.php?id=100028377257427)
+
+ ![plot](./img/facebook.png)(https://web.facebook.com/profile.php?id=100028377257427)
