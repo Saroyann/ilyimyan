@@ -7,7 +7,7 @@ Hi 👋, I’m ✨@ilyimyan✨<br>
 
 catch me on  : <br>
 ![plot](./img/facebook.png](https://web.facebook.com/profile.php?id=100028377257427)
-![plot](/img/instagram.png)](https://www.instagram.com/saroyan_yan/)
-![plot](/img/twitter.png)](https://twitter.com/ilyimyan_yan)
+![plot](/img/instagram.png)(https://www.instagram.com/saroyan_yan/)
+![plot](/img/twitter.png)(https://twitter.com/ilyimyan_yan)
 
  
