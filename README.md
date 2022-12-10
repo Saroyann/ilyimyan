@@ -6,7 +6,7 @@ Hi 👋, I’m ✨@ilyimyan✨<br>
 <br>
  <p>catch me on :</p>
 
- ![plot](./img/facebook.png)![a link][def]
+ ![plot](./img/facebook.png)[def]
 
 
 [def]: https://web.facebook.com/profile.php?id=100028377257427
