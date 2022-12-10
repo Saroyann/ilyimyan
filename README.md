@@ -6,4 +6,4 @@ Hi 👋, I’m ✨@ilyimyan✨<br>
 <br>
  <p>catch me on :</p>
 
- ![plot](./img/facebook.png)(https://web.facebook.com/profile.php?id=100028377257427)
+ ![plot](./img/facebook.png(https://web.facebook.com/profile.php?id=100028377257427)
