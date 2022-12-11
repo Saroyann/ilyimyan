@@ -1,4 +1,4 @@
-![plot](./img/jumbotron.jpg)
+![](./img/jumbotron.jpg)
 <p align="center">
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/menhera-chan-chibi.gif" width="150">
 </p>
