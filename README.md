@@ -13,7 +13,7 @@
  </p>
  <br>
 
- <img src="https://tenor.com/view/line-gif-22761797">
+ <img src="">
 
 
 
