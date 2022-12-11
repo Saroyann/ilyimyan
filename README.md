@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/menhera-chan-chibi.gif" width="150">
 </p>
-<h1 align="center"><img src="https://github.com/ilyimyan/ilyimyan/blob/img/gif/neko_hooray.gif">Hi 👋, I’m ✨ilyimyan✨<img src="https://github.com/ilyimyan/ilyimyan/blob/img/gif/neko_hooray.gif"></h1><br>
+<h2 align="center"><img src="https://github.com/ilyimyan/ilyimyan/blob/img/gif/neko_hooray.gif">Hi 👋, I’m ✨ilyimyan✨<img src="https://github.com/ilyimyan/ilyimyan/blob/img/gif/neko_hooray.gif"></h2><br>
 <p align="center">
 <img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif" width="30"> <i>'The <b>more</b> i learn, the <b>less</b> i realize i know'</i><img src="https://github.com/ilyimyan/ilyimyan/blob/main/gif/sparkles-pink.gif" width="30"><br>
 -Socrates<br>
